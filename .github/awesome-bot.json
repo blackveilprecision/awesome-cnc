@@ -1,6 +1,6 @@
 {
   "list_name": "Awesome CNC",
-  "scope": "CNC machining for hobbyists and professionals: CNC routers, mills, lathes, plasma cutters and laser cutters, plus the firmware, control software, CAD/CAM, tooling, techniques, learning material and communities around them. Out of scope: general 3D printing (unless it is CNC-relevant), generic maker content with no CNC angle, individual product listings from online marketplaces, affiliate links, and link shorteners.",
+  "scope": "CNC machining for hobbyists and professionals: CNC routers, mills, lathes, plasma cutters and laser cutters, plus the firmware, control software, CAD/CAM, tooling, techniques, learning material and communities around them. General 3D and CAD model libraries are in scope for the \"3D & CAD Model Libraries\" section, where people search for jigs, fixtures and parts to machine. Out of scope: general 3D printing (unless it is CNC-relevant), generic maker content with no CNC angle, individual product listings from online marketplaces, affiliate links, and link shorteners.",
   "readme": "README.md",
   "issue_form": ".github/ISSUE_TEMPLATE/add-resource.yml",
   "update_form": ".github/ISSUE_TEMPLATE/update-entry.yml",
