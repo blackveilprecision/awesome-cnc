@@ -28,7 +28,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [LowRider CNC](https://docs.v1e.com/lowrider/) - Mostly 3D-printed V1 Engineering router that scales from benchtop size up to full 4x8 ft sheets.
 - [Makera](https://www.makera.com/) - Desktop CNC machines with probing and quick or automatic tool changing: the Carvera, Carvera Air and Z1.
 - [Maslow CNC](https://www.maslowcnc.com/) - Open-source large-format router; Maslow 4 moves a sled with four belts to cut full sheets.
-- [MPCNC Primo](https://docs.v1e.com/mpcnc/) - Mostly Printed CNC from V1 Engineering, built from 3D-printed parts and steel tubing.
+- [MPCNC Primo](https://docs.v1e.com/mpcnc/intro/) - Mostly Printed CNC from V1 Engineering, built from 3D-printed parts and steel tubing.
 - [Onefinity CNC](https://www.onefinitycnc.com/) - Ball-screw hobby CNC routers; the Elite series adds closed-loop steppers and a MASSO controller.
 - [Penta Machine](https://www.pentamachine.com/) - Maker of the Pocket NC desktop 5-axis mill and the compact 5-axis Solo.
 - [PrintNC](https://wiki.printnc.info/en/home) - Open-source steel-tube CNC router design that can cut aluminum and steel, documented in a community wiki.
