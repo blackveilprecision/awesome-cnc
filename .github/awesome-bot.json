@@ -3,7 +3,12 @@
   "scope": "CNC machining for hobbyists and professionals: CNC routers, mills, lathes, plasma cutters and laser cutters, plus the firmware, control software, CAD/CAM, tooling, techniques, learning material and communities around them. Out of scope: general 3D printing (unless it is CNC-relevant), generic maker content with no CNC angle, individual product listings from online marketplaces, affiliate links, and link shorteners.",
   "readme": "README.md",
   "issue_form": ".github/ISSUE_TEMPLATE/add-resource.yml",
-  "meta_sections": ["Contents", "Contributing", "Footnotes"],
+  "update_form": ".github/ISSUE_TEMPLATE/update-entry.yml",
+  "meta_sections": [
+    "Contents",
+    "Contributing",
+    "Footnotes"
+  ],
   "model": "",
   "max_description_length": 160,
   "auto_open_pr": true,
@@ -17,6 +22,7 @@
     "ai_needs_review": "ai: needs review",
     "ai_rejected": "ai: rejected",
     "needs_changes": "needs changes",
-    "duplicate": "duplicate"
+    "duplicate": "duplicate",
+    "update": "entry update"
   }
 }
