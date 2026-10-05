@@ -18,6 +18,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [CAM](#cam)
 - [Simulation & G-code Viewers](#simulation--g-code-viewers)
 - [Feeds & Speeds](#feeds--speeds)
+- [Project Files & Models](#project-files--models)
 - [Learning Resources](#learning-resources)
 - [YouTube Channels](#youtube-channels)
 - [Communities](#communities)
@@ -124,6 +125,19 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [G-Wizard](https://www.cnccookbook.com/g-wizard-feeds-speeds-calculator-mill/) - Commercial feeds and speeds calculator from CNCCookbook for mills, routers and lathes, with a hobby Lite edition.
 - [HSMAdvisor](https://hsmadvisor.com/) - Commercial Windows feeds and speeds calculator with a tool database and cutting force estimates.
 
+## Project Files & Models
+
+- [3axis.co](https://3axis.co/) - Free DXF, SVG, CDR and STL files for CNC routers, laser cutters and plasma tables.
+- [CutRocket](https://cutrocket.com/) - Carbide 3D's free project-sharing site for Carbide Create, Vectric and Fusion projects, open to any machine.
+- [Design & Make](https://www.designandmake.com/) - Commercial library of CNC-ready 2D and 3D relief clipart in V3M, STL and RLF formats for Vectric software.
+- [Easel Project Gallery](https://site.inventables.com/projects/) - Community projects made in Easel that can be opened, customized and carved on your own machine.
+- [GrabCAD Library](https://grabcad.com/library) - Millions of free CAD models shared by engineers, with STEP and native files for fixtures and machined parts.
+- [Makerables](https://www.makerables.com/) - Makera's project-sharing platform with free CNC project files, filterable by machine.
+- [Printables](https://www.printables.com/) - Prusa's model library, including many printable CNC jigs, fixtures, dust shoes and accessories.
+- [Thangs](https://thangs.com/) - Geometric search engine that finds 3D models across many sharing sites.
+- [Thingiverse](https://www.thingiverse.com/) - Large 3D model repository that also hosts CNC router designs, jigs and machine upgrades.
+- [Vectric Free Projects](https://www.vectric.com/vectric-community/free-projects/) - Over 300 free CNC and laser projects with files, materials lists and step-by-step videos.
+
 ## Learning Resources
 
 - [Carbide 3D Getting Started with CNC](https://carbide3d.com/hub/courses/getting-started-cnc/) - Free introductory course on CNC terminology, tooling, software and workflow.
@@ -170,6 +184,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 
 - [Awesome 3D Printing](https://github.com/ad-si/awesome-3d-printing) - Printers, slicers, CAD and resources for 3D printing.
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics) - Resources for electronic engineers and hobbyists.
+- [Awesome Makera](https://github.com/blackveilprecision/awesome-makera) - Resources for Makera desktop CNC machines, including the Carvera, Carvera Air and Z1.
 
 ## Contributing
 
