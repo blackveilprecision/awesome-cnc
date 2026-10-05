@@ -26,7 +26,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [Langmuir Systems](https://www.langmuirsystems.com/) - Maker of the CrossFire CNC plasma tables and the MR-1 gantry mill for home and small fab shops.
 - [LongMill](https://sienci.com/product-category/longmill/) - Sienci Labs benchtop CNC router kit for hobbyists, supplied with the gSender control software.
 - [LowRider CNC](https://docs.v1e.com/lowrider/) - Mostly 3D-printed V1 Engineering router that scales from benchtop size up to full 4x8 ft sheets.
-- [Makera](https://www.makera.com/) - Desktop CNC mills with automatic tool changing and probing, including the Carvera and Carvera Air.
+- [Makera](https://www.makera.com/) - Desktop CNC machines with probing and quick or automatic tool changing: the Carvera, Carvera Air and Z1.
 - [Maslow CNC](https://www.maslowcnc.com/) - Open-source large-format router; Maslow 4 moves a sled with four belts to cut full sheets.
 - [MPCNC Primo](https://docs.v1e.com/mpcnc/) - Mostly Printed CNC from V1 Engineering, built from 3D-printed parts and steel tubing.
 - [Onefinity CNC](https://www.onefinitycnc.com/) - Ball-screw hobby CNC routers; the Elite series adds closed-loop steppers and a MASSO controller.
