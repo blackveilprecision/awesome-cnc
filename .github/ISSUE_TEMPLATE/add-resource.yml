@@ -32,7 +32,10 @@ body:
       description: Where should it go? These options are generated from the README sections.
       options:
         # categories:start
-        - "Machines"
+        - "Desktop Machines"
+        - "Hobby & Small-Shop Routers"
+        - "DIY & Open-Source Machines"
+        - "Mills, Lathes & Plasma"
         - "Firmware & Controllers"
         - "Machine Control Software"
         - "CAD"

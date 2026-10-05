@@ -54,7 +54,10 @@ body:
       description: Leave empty to keep the current section.
       options:
         # categories:start
-        - "Machines"
+        - "Desktop Machines"
+        - "Hobby & Small-Shop Routers"
+        - "DIY & Open-Source Machines"
+        - "Mills, Lathes & Plasma"
         - "Firmware & Controllers"
         - "Machine Control Software"
         - "CAD"
