@@ -8,7 +8,10 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 
 ## Contents
 
-- [Machines](#machines)
+- [Desktop Machines](#desktop-machines)
+- [Hobby & Small-Shop Routers](#hobby--small-shop-routers)
+- [DIY & Open-Source Machines](#diy--open-source-machines)
+- [Mills, Lathes & Plasma](#mills-lathes--plasma)
 - [Firmware & Controllers](#firmware--controllers)
 - [Machine Control Software](#machine-control-software)
 - [CAD](#cad)
@@ -19,22 +22,33 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [YouTube Channels](#youtube-channels)
 - [Communities](#communities)
 
-## Machines
+## Desktop Machines
+
+- [Bantam Tools Desktop CNC](https://bantamtools.com/products/bantam-tools-desktop-cnc-milling-machine) - Enclosed, US-made desktop mill for machining aluminum prototypes and PCBs, with its own milling software.
+- [Makera](https://www.makera.com/) - Desktop CNC machines with probing and quick or automatic tool changing: the Carvera, Carvera Air and Z1.
+- [Nomad 3](https://carbide3d.com/nomad/) - Carbide 3D's fully enclosed desktop mill for metal, wood, wax and PCBs, with an 8x8x3 in cutting area.
+- [Penta Machine](https://www.pentamachine.com/) - Maker of the Pocket NC desktop 5-axis mill and the compact 5-axis Solo.
+
+## Hobby & Small-Shop Routers
 
 - [AltMill](https://sienci.com/altmill/) - Sienci Labs linear-rail, ball-screw CNC router for production work in 2x4, 4x4 and 4x8 ft sizes.
 - [Avid CNC](https://www.avidcnc.com/) - Modular CNC router and plasma table kits ranging from benchtop to 5x10 ft formats.
-- [Langmuir Systems](https://www.langmuirsystems.com/) - Maker of the CrossFire CNC plasma tables and the MR-1 gantry mill for home and small fab shops.
 - [LongMill](https://sienci.com/product-category/longmill/) - Sienci Labs benchtop CNC router kit for hobbyists, supplied with the gSender control software.
+- [Onefinity CNC](https://www.onefinitycnc.com/) - Ball-screw hobby CNC routers; the Elite series adds closed-loop steppers and a MASSO controller.
+- [Shapeoko](https://carbide3d.com/shapeoko/) - Carbide 3D's line of hobby and small-shop CNC routers, including the ball-screw Shapeoko 5 Pro.
+- [X-Carve Pro](https://www.inventables.com/pages/x-carve-pro-cnc-machine) - Inventables' steel-frame, ball-screw router for small shops.
+
+## DIY & Open-Source Machines
+
 - [LowRider CNC](https://docs.v1e.com/lowrider/) - Mostly 3D-printed V1 Engineering router that scales from benchtop size up to full 4x8 ft sheets.
-- [Makera](https://www.makera.com/) - Desktop CNC machines with probing and quick or automatic tool changing: the Carvera, Carvera Air and Z1.
 - [Maslow CNC](https://www.maslowcnc.com/) - Open-source large-format router; Maslow 4 moves a sled with four belts to cut full sheets.
 - [MPCNC Primo](https://docs.v1e.com/mpcnc/intro/) - Mostly Printed CNC from V1 Engineering, built from 3D-printed parts and steel tubing.
-- [Onefinity CNC](https://www.onefinitycnc.com/) - Ball-screw hobby CNC routers; the Elite series adds closed-loop steppers and a MASSO controller.
-- [Penta Machine](https://www.pentamachine.com/) - Maker of the Pocket NC desktop 5-axis mill and the compact 5-axis Solo.
 - [PrintNC](https://wiki.printnc.info/en/home) - Open-source steel-tube CNC router design that can cut aluminum and steel, documented in a community wiki.
-- [Shapeoko](https://carbide3d.com/shapeoko/) - Carbide 3D's line of hobby and small-shop CNC routers, including the ball-screw Shapeoko 5 Pro.
+
+## Mills, Lathes & Plasma
+
+- [Langmuir Systems](https://www.langmuirsystems.com/) - Maker of the CrossFire CNC plasma tables and the MR-1 gantry mill for home and small fab shops.
 - [Tormach](https://tormach.com/) - Compact CNC mills, lathes and routers for small shops, run by the LinuxCNC-based PathPilot control.
-- [X-Carve Pro](https://www.inventables.com/pages/x-carve-pro-cnc-machine) - Inventables' steel-frame, ball-screw router for small shops.
 
 ## Firmware & Controllers
 
