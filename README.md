@@ -129,18 +129,31 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 ## CNC Project Files
 
 - [3axis.co](https://3axis.co/) - Free DXF, SVG, CDR and STL files for CNC routers, laser cutters and plasma tables.
+- [Bantam Tools CNC Projects](https://support.bantamtools.com/hc/en-us/categories/8515336915603-CNC-Resources-and-Projects) - Free desktop-milling projects in aluminum, brass and PCB stock, with G-code and Fusion files under a CC BY-NC-SA license.
+- [Clickspring](https://www.clickspringprojects.com/) - Commercial and free metric PDF drawings for the clock parts and shop-made tools built in the Clickspring machining videos.
 - [CutRocket](https://cutrocket.com/) - Carbide 3D's free project-sharing site for Carbide Create, Vectric and Fusion projects, open to any machine.
 - [Design & Make](https://www.designandmake.com/) - Commercial library of CNC-ready 2D and 3D relief clipart in V3M, STL and RLF formats for Vectric software.
 - [Easel Project Gallery](https://site.inventables.com/projects/) - Community projects made in Easel that can be opened, customized and carved on your own machine.
+- [FireShare](https://fireshare.langmuirsystems.com/) - Langmuir Systems' library of plasma, laser and MR-1 milling projects in DXF, STEP and Fusion formats; mostly free, some paid.
+- [Hemingway Kits](https://www.hemingwaykits.com/) - Commercial model-engineering and workshop-tool projects, such as the Quorn tool and cutter grinder, sold as kits or drawings.
+- [Home Model Engine Machinist Plans](https://www.homemodelenginemachinist.com/forums/plans.12/) - Forum board where members share model engine plans, many free, for steam, IC and Stirling engines, often with CAD files.
+- [Little Machine Shop Projects](https://littlemachineshop.com/pages/machinists-projects) - Free beginner machining plans, such as an oscillating engine, a knurling tool and vise clamps.
 - [Makerables](https://www.makerables.com/) - Makera's project-sharing platform with free CNC project files, filterable by machine.
+- [Tormach Project Library](https://tormach.com/project-library) - Free machining projects with CAD and CAM files, G-code, materials lists and step-by-step directions, made for Tormach machines.
 - [Vectric Free Projects](https://www.vectric.com/vectric-community/free-projects/) - Over 300 free CNC and laser projects with files, materials lists and step-by-step videos.
 
 ## 3D & CAD Model Libraries
 
+- [3Dfindit](https://www.3dfindit.com/) - Free CADENAS search engine for manufacturer-certified CAD models with shape and sketch search; successor to PARTcommunity.
+- [FreeCAD Parts Library](https://github.com/FreeCAD/FreeCAD-library) - Community-maintained, CC BY-licensed parametric FreeCAD parts with STEP exports, including fasteners, bearings and profiles.
 - [GrabCAD Library](https://grabcad.com/library) - Millions of free CAD models shared by engineers, with STEP and native files for fixtures and machined parts.
+- [MakerWorld](https://makerworld.com/) - Bambu Lab's model community, with many free printable jigs, fixtures, vise jaws and shop accessories.
+- [McMaster-Carr](https://www.mcmaster.com/) - Industrial supply catalog whose product pages offer free 2D and 3D CAD downloads of fasteners, clamps, dowel pins and other hardware.
+- [MISUMI inCAD Library](https://us.misumi-ec.com/us/incadlibrary/) - Free downloadable CAD assemblies of 200+ machine mechanisms such as clamps, indexing tables and positioning units.
 - [Printables](https://www.printables.com/) - Prusa's model library, including many printable CNC jigs, fixtures, dust shoes and accessories.
 - [Thangs](https://thangs.com/) - Geometric search engine that finds 3D models across many sharing sites.
 - [Thingiverse](https://www.thingiverse.com/) - Large 3D model repository that also hosts CNC router designs, jigs and machine upgrades.
+- [TraceParts](https://www.traceparts.com/en) - Free library of supplier catalog parts in STEP, native CAD and 2D formats, with plugins for major CAD tools.
 
 ## Learning Resources
 
@@ -150,7 +163,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [LinuxCNC G-code Reference](https://linuxcnc.org/docs/html/gcode/g-code.html) - Detailed reference for RS274/NGC G-codes as implemented in LinuxCNC.
 - [Machinery's Handbook](https://books.industrialpress.com/machinery-handbook/) - Standard reference for mechanical engineering and machining, now in its 32nd edition.
 - [RepRap G-code Wiki](https://reprap.org/wiki/G-code) - G-code and M-code reference across RepRap-family firmwares such as Marlin and RepRapFirmware.
-- [Titans of CNC Academy](https://academy.titansofcnc.com/) - Free CAD, CAM and CNC machining courses built around project-based video lessons.
+- [Titans of CNC Academy](https://academy.titansofcnc.com/) - Free CAD, CAM and CNC machining courses built around projects, with downloadable prints, models and setup sheets for each part.
 
 ## YouTube Channels
 
