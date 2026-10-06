@@ -85,6 +85,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 
 - [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/overview) - Commercial cloud-based CAD/CAM/CAE platform; the free personal-use license includes limited CAM.
 - [build123d](https://github.com/gumyr/build123d) - Open-source Python BREP CAD framework on OpenCascade that evolves CadQuery's ideas with context managers.
+- [CADProps](https://www.cadprops.com/tools/step-viewer/) - Commercial browser-based STEP viewer for checking dimensions and sections before CNC quoting; viewing requires no account.
 - [CadQuery](https://github.com/CadQuery/cadquery) - Open-source Python library for building parametric CAD models on the OpenCascade kernel.
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler with sketcher, part design, assembly and an integrated CAM workbench.
 - [Inkscape](https://inkscape.org/) - Open-source SVG vector editor often used to prepare 2D artwork for routers, lasers and plasma.
