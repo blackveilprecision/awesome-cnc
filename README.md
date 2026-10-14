@@ -111,6 +111,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [Makera CAM](https://www.makera.com/pages/software) - CAM for Makera Carvera machines, free for owners; its successor Makera Studio is in public beta.
 - [Mastercam](https://www.mastercam.com/) - Commercial industrial CAD/CAM suite for mill, lathe, mill-turn, Swiss, wire EDM and router programming.
 - [MeshCAM](https://www.grzsoftware.com/) - Commercial three-axis CAM that generates toolpaths directly from STL and DXF files with minimal setup.
+- [Nestbolt](https://skulitom.github.io/Nestbolt/) - Open-source browser nesting of SVG/DXF parts on fixed sheets for laser, CNC and plasma, with CLI and MCP server. ([Source code](https://github.com/skulitom/Nestbolt))
 - [OpenCAMLib](https://github.com/aewallin/opencamlib) - Open-source C++ library with Python bindings for drop-cutter and waterline toolpath algorithms.
 - [SheetCAM](https://www.sheetcam.com/) - Commercial sheet-cutting CAM for plasma, waterjet, laser, oxy-fuel and routing with nesting and lead-in control.
 - [svg2gcode](https://github.com/sameer/svg2gcode) - Open-source Rust tool and web app that converts SVG vector graphics into G-code for plotters, lasers and CNC.
