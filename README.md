@@ -92,6 +92,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [LibreCAD](https://librecad.org/) - Open-source, cross-platform 2D CAD application that reads and writes DXF and DWG files.
 - [Onshape](https://www.onshape.com/) - Commercial browser-based parametric CAD; the free plan is for non-commercial work in public documents.
 - [OpenSCAD](https://openscad.org/) - Open-source, script-based solid modeler that builds 3D models from code using CSG operations.
+- [Pic2SVG](https://pic2svg.com/) - Freemium web tool that traces raster images into editable SVG paths and exports DXF for CNC artwork preparation.
 - [QCAD](https://qcad.org/) - Open-source, cross-platform 2D CAD; paid Professional and QCAD/CAM editions add DWG support and G-code.
 - [SolveSpace](https://solvespace.com/) - Open-source, lightweight constraint-based 2D/3D modeler that exports DXF, STEP and STL.
 
