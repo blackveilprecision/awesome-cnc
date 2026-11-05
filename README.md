@@ -117,6 +117,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [SheetCAM](https://www.sheetcam.com/) - Commercial sheet-cutting CAM for plasma, waterjet, laser, oxy-fuel and routing with nesting and lead-in control.
 - [svg2gcode](https://github.com/sameer/svg2gcode) - Open-source Rust tool and web app that converts SVG vector graphics into G-code for plotters, lasers and CNC.
 - [Vectric](https://www.vectric.com/) - Commercial Windows router CAD/CAM: Cut2D for 2D, VCarve for 2.5D and V-carving, and Aspire for 3D reliefs.
+- [WoodCalc](https://woodcalctools.com) - Free browser-based woodworking calculators cover lumber, plywood layouts, cut lists, and joinery geometry for project planning.
 
 ## Simulation & G-code Viewers
 
