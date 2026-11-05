@@ -154,6 +154,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [McMaster-Carr](https://www.mcmaster.com/) - Industrial supply catalog whose product pages offer free 2D and 3D CAD downloads of fasteners, clamps, dowel pins and other hardware.
 - [MISUMI inCAD Library](https://us.misumi-ec.com/us/incadlibrary/) - Free downloadable CAD assemblies of 200+ machine mechanisms such as clamps, indexing tables and positioning units.
 - [Printables](https://www.printables.com/) - Prusa's model library, including many printable CNC jigs, fixtures, dust shoes and accessories.
+- [PrintWhat](https://printwhat.app/search) - Searches multiple 3D model and CAD libraries, with optional image-based search and links to source licenses.
 - [Thangs](https://thangs.com/) - Geometric search engine that finds 3D models across many sharing sites.
 - [Thingiverse](https://www.thingiverse.com/) - Large 3D model repository that also hosts CNC router designs, jigs and machine upgrades.
 - [TraceParts](https://www.traceparts.com/en) - Free library of supplier catalog parts in STEP, native CAD and 2D formats, with plugins for major CAD tools.
