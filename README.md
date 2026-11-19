@@ -74,6 +74,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [Candle](https://github.com/Denvi/Candle) - Open-source Qt-based GRBL control application with a G-code visualizer and height-map support.
 - [Carbide Motion](https://carbide3d.com/carbidemotion/) - Free machine control software for Carbide 3D's Shapeoko and Nomad machines.
 - [Carvera Community Controller](https://github.com/Carvera-Community/Carvera_Controller) - Community-developed, open-source controller software for Makera Carvera machines.
+- [CNC3D Commander](https://www.cnc3d.com.au/commander) - Free Windows G-code sender for GRBL-based machines, with probing, height mapping, overrides and bundled CAD/CAM.
 - [CNCjs](https://cnc.js.org/) - Open-source web interface for Grbl, Marlin, Smoothieware and TinyG controllers, often run on a Raspberry Pi.
 - [gSender](https://sienci.com/gsender/) - Sienci Labs' open-source sender for grbl and grblHAL machines with 3D preview and probing tools.
 - [ioSender](https://github.com/terjeio/ioSender) - Open-source Windows G-code sender for Grbl and grblHAL that exposes grblHAL's extended features.
