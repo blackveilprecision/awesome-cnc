@@ -96,6 +96,14 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [QCAD](https://qcad.org/) - Open-source, cross-platform 2D CAD; paid Professional and QCAD/CAM editions add DWG support and G-code.
 - [SolveSpace](https://solvespace.com/) - Open-source, lightweight constraint-based 2D/3D modeler that exports DXF, STEP and STL.
 
+#### ViewStep3D
+<https://github.com/hanshan0228/viewstep3d>
+Free open-source browser-based STEP viewer for checking dimensions and sections before CNC quoting, with zero uploads.
+- Open STEP/STP assemblies in the browser, no account
+- Measure bounding-box dimensions in mm and inspect sections
+- Convert STEP to STL/OBJ/GLB locally
+- MIT licensed, files never leave the browser
+
 ## CAM
 
 - [Carbide Create](https://carbide3d.com/carbidecreate/) - Free design and 2.5D CAM software for routers with V-carving; the paid Pro version adds 3D tools.
