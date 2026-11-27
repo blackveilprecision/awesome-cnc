@@ -166,6 +166,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [Haas Learning Resources](https://www.haascnc.com/myhaas/Haas_Learning_Resources.html) - Hub for Haas Tip of the Day videos and training on CNC setup and programming.
 - [LinuxCNC G-code Reference](https://linuxcnc.org/docs/html/gcode/g-code.html) - Detailed reference for RS274/NGC G-codes as implemented in LinuxCNC.
 - [Machinery's Handbook](https://books.industrialpress.com/machinery-handbook/) - Standard reference for mechanical engineering and machining, now in its 32nd edition.
+- [Pressfit](https://github.com/Veer-Sanghvi/pressfit) - Open-source Python CLI for calculating ISO 286 fit limits and clearance or interference bands.
 - [RepRap G-code Wiki](https://reprap.org/wiki/G-code) - G-code and M-code reference across RepRap-family firmwares such as Marlin and RepRapFirmware.
 - [Titans of CNC Academy](https://academy.titansofcnc.com/) - Free CAD, CAM and CNC machining courses built around projects, with downloadable prints, models and setup sheets for each part.
 
