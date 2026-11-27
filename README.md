@@ -95,6 +95,7 @@ Routers, mills, lathes, plasma tables and lasers: the machines, the software tha
 - [Pic2SVG](https://pic2svg.com/) - Freemium web tool that traces raster images into editable SVG paths and exports DXF for CNC artwork preparation.
 - [QCAD](https://qcad.org/) - Open-source, cross-platform 2D CAD; paid Professional and QCAD/CAM editions add DWG support and G-code.
 - [SolveSpace](https://solvespace.com/) - Open-source, lightweight constraint-based 2D/3D modeler that exports DXF, STEP and STL.
+- [ViewStep3D](https://viewstep3d.com) - Free, open-source browser-based STEP/STP/IGES/STL viewer and converter powered by Open CASCADE WebAssembly, with mm measurement, sectioning, and zero server uploads.
 
 ## CAM
 
